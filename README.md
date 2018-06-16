@@ -1,8 +1,21 @@
-#Hacker Earth Front end Challenge
+## Hacker Earth Front end Challenge
 
 Small React application to create a Cart for chiness food.
 
 Below are some screenshot. 
+
+- [When Cart is empty and food is not available at current time](#feature1)
+![](images/Screen%20Shot%202018-05-21%20at%201.09.02%20AM.png)
+
+- [Food is available at current time](#feature1)
+![](images/Screen%20Shot%202018-05-21%20at%201.09.06%20AM.png)
+
+- [Food is available at current time and added to cart](#feature1)
+![](images/Screen%20Shot%202018-05-21%20at%201.09.12%20AM.png)
+
+
+## Please follow REACT guideline to run this app
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
