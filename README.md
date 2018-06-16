@@ -1,3 +1,9 @@
+#Hacker Earth Front end Challenge
+
+Small React application to create a Cart for chiness food.
+
+Below are some screenshot. 
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
